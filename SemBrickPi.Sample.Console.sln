@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemBrickPiLib", "SemBrickPiLib\SemBrickPiLib.csproj", "{59DCBD50-C355-4CB1-81C4-9ADE614EB84E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemBrickPiLib.Tests", "SemBrickPiLib.Tests\SemBrickPiLib.Tests.csproj", "{61DFF623-7648-4AD2-A2DF-93E6E6B1404F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemBrickPi.Sample.Console", "SemBrickPi.Sample.Console\SemBrickPi.Sample.Console.csproj", "{52A599FB-CBFE-4B31-B92D-EE3B3F82BE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DCBD50-C355-4CB1-81C4-9ADE614EB84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DCBD50-C355-4CB1-81C4-9ADE614EB84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DCBD50-C355-4CB1-81C4-9ADE614EB84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DCBD50-C355-4CB1-81C4-9ADE614EB84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DFF623-7648-4AD2-A2DF-93E6E6B1404F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DFF623-7648-4AD2-A2DF-93E6E6B1404F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DFF623-7648-4AD2-A2DF-93E6E6B1404F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DFF623-7648-4AD2-A2DF-93E6E6B1404F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A599FB-CBFE-4B31-B92D-EE3B3F82BE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A599FB-CBFE-4B31-B92D-EE3B3F82BE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A599FB-CBFE-4B31-B92D-EE3B3F82BE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A599FB-CBFE-4B31-B92D-EE3B3F82BE55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
